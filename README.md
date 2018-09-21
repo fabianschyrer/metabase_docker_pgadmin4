@@ -1,2 +1,2 @@
 # README - metabase_docker_pgadmin4
-PG-Admin4 Docker Container to manage PostgreSQL (WUI)  <br/>
+Docker Container PG-Admin4 to manage PostgreSQL (WUI) for Metabase Deployment <br/>
