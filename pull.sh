@@ -1,2 +1,2 @@
 # Pull image from GCR
-docker pull <DOCKER_REGISTRY>/metabase.docker.pgadmin4:latest
+docker pull fabianschyrer/metabase.docker.pgadmin4:latest

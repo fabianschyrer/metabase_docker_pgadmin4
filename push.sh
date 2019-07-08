@@ -1,2 +1,2 @@
 # Push image to GCR
-docker <DOCKER_REGISTRY>/metabase.docker.pgadmin4:latest
+docker push fabianschyrer/metabase.docker.pgadmin4:latest

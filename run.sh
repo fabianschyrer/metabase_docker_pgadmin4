@@ -12,4 +12,4 @@ docker run --publish 5050:5050 \
   --hostname="pgadmin4-metabase" \
   --network="metabase-network" \
   --detach \
-  <DOCKER_REGISTRY>/metabase.docker.pgadmin4:latest
+  fabianschyrer/metabase.docker.pgadmin4:latest
